@@ -73,6 +73,3 @@ Visit: `http://127.0.0.1:5000/`
 * Deploy dashboard using **Docker** or **Heroku**
 * Real-time data ingestion
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
